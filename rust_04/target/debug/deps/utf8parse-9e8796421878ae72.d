@@ -1,0 +1,8 @@
+C:\Dev\Rust\rust_bootcamp\rust_04\target\debug\deps\utf8parse-9e8796421878ae72.d: C:\Users\Liegeois\ Noa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\utf8parse-0.2.2\src\lib.rs C:\Users\Liegeois\ Noa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\utf8parse-0.2.2\src\types.rs
+
+C:\Dev\Rust\rust_bootcamp\rust_04\target\debug\deps\libutf8parse-9e8796421878ae72.rlib: C:\Users\Liegeois\ Noa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\utf8parse-0.2.2\src\lib.rs C:\Users\Liegeois\ Noa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\utf8parse-0.2.2\src\types.rs
+
+C:\Dev\Rust\rust_bootcamp\rust_04\target\debug\deps\libutf8parse-9e8796421878ae72.rmeta: C:\Users\Liegeois\ Noa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\utf8parse-0.2.2\src\lib.rs C:\Users\Liegeois\ Noa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\utf8parse-0.2.2\src\types.rs
+
+C:\Users\Liegeois\ Noa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\utf8parse-0.2.2\src\lib.rs:
+C:\Users\Liegeois\ Noa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\utf8parse-0.2.2\src\types.rs:
